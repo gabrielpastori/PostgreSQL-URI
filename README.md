@@ -1,1 +1,2 @@
 # PostgreSQL-URI
+PostgreSQL exercises
